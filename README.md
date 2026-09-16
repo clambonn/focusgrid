@@ -1,6 +1,6 @@
 # FocusGrid
 
-A calm Eisenhower matrix. Four quadrants, one thing at a time.  
+A calm Eisenhower matrix.for turning a crowded task list into one clear next step. Four quadrants, one thing at a time.  
 Offline, local-only, no account, no backend.
 
 > Less overwhelm. More clarity.
